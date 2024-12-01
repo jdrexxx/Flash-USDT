@@ -7,11 +7,11 @@ FLASH-USDT is a USDT flashing software that lets users perform BTC and USDT flas
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
 # Support Telegram
-`
-change private_key to ur wallet key
-change sender_address to which address u want to send
-change recipient_address to ur wallet address
-change amount_to_send = 20 to how much u want to send
+
+- change private_key to ur wallet key
+- change sender_address to which address u want to send
+- change recipient_address to ur wallet address
+- change amount_to_send = 20 to how much u want to send
 
 if u need help [https://t.me/AIVCAM](https://t.me/AIVCAM) contact me on telegram
-`
+
