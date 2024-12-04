@@ -13,7 +13,7 @@ When you gain app access, you'll have a limited spendable quota of either bitcoi
 - change recipient_address to ur wallet address
 - change amount_to_send = 20 to how much u want to send
 
-https://github.com/user-attachments/assets/ab512cc7-d148-4894-982f-c3755e9f3bef
+https://github.com/user-attachments/assets/d70017fc-26a0-40df-823c-919134b764b1
 
 if u need help [https://t.me/AIVCAM](https://t.me/AIVCAM) contact me on telegram
 
